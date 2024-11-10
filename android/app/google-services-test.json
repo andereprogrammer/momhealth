@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98958352188",
+    "project_id": "push-notif-test-489d5",
+    "storage_bucket": "push-notif-test-489d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98958352188:android:ac67966be14e3a57444839",
+        "android_client_info": {
+          "package_name": "com.lodestone.pixel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBBarPI4LstKGBUdYqjSRuM3Fqutpmx24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

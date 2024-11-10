@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "EH_Main_PrimaryEH.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "EH_Main_PrimaryEH@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "EH_Main_PrimaryEH@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

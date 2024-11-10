@@ -1,0 +1,177 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "assets/fonts/BerkshireSwash-Regular.ttf",
+      "sha1": "84287a7d6b5df153830946bee4c5d06ed8e117ab"
+    },
+    {
+      "path": "assets/fonts/Cookie-Regular.ttf",
+      "sha1": "815acb8ae7f98dd13cd0a1334b80ec2ec51cb339"
+    },
+    {
+      "path": "assets/fonts/DMSans-Bold.ttf",
+      "sha1": "ef47944cd61dfd6889e7f0bb7596d87849d0e6cb"
+    },
+    {
+      "path": "assets/fonts/DMSans-BoldItalic.ttf",
+      "sha1": "2cda7fbf23c06dbac3313d545ee3d731337d0806"
+    },
+    {
+      "path": "assets/fonts/DMSans-Italic.ttf",
+      "sha1": "d25f274ef2cedcf71d66a4297d7337b6ae89a4ae"
+    },
+    {
+      "path": "assets/fonts/DMSans-Medium.ttf",
+      "sha1": "afe77e497ca69c2e83ade71a6acb5036393db1f1"
+    },
+    {
+      "path": "assets/fonts/DMSans-MediumItalic.ttf",
+      "sha1": "8ee39617a14a355fb07fd4b6e71a8b5ab48bea92"
+    },
+    {
+      "path": "assets/fonts/DMSans-Regular.ttf",
+      "sha1": "f1cf9ed15e1ec1db951c401233655dbbd304c732"
+    },
+    {
+      "path": "assets/fonts/Entypo.ttf",
+      "sha1": "12b5670eb178138f77285d5f2c246d3cc5fa67d6"
+    },
+    {
+      "path": "assets/fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "assets/fonts/Feather.ttf",
+      "sha1": "e6604258b1ced5efd51360875d782fca65381d47"
+    },
+    {
+      "path": "assets/fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Brands.ttf",
+      "sha1": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Regular.ttf",
+      "sha1": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Solid.ttf",
+      "sha1": "c1b9fae262f42868c075ac865a8ab34920e20a2c"
+    },
+    {
+      "path": "assets/fonts/FontAwesome6_Brands.ttf",
+      "sha1": "a14a91d8c170fc9e159040f6794369d829e0859e"
+    },
+    {
+      "path": "assets/fonts/FontAwesome6_Regular.ttf",
+      "sha1": "dad3ad71b383789bb62c249742ef59e34685e7d0"
+    },
+    {
+      "path": "assets/fonts/FontAwesome6_Solid.ttf",
+      "sha1": "3eb9b4b2ea22711b96e3b356196fd20b4f17fb0e"
+    },
+    {
+      "path": "assets/fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "assets/fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "assets/fonts/Ionicons.ttf",
+      "sha1": "86e07c3d974eb09099e6e5a9b3b8310303cf0feb"
+    },
+    {
+      "path": "assets/fonts/MaterialCommunityIcons.ttf",
+      "sha1": "4c2a838b00dbb5e8bb1b368fce0de534e8eb241c"
+    },
+    {
+      "path": "assets/fonts/MaterialIcons.ttf",
+      "sha1": "7e02c3f005532ff4d24148567c84089756a7848a"
+    },
+    {
+      "path": "assets/fonts/Octicons.ttf",
+      "sha1": "56acefc0731f35ee23b195b1c8cb5fa94a0db97b"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Bold.ttf",
+      "sha1": "9b9cbacdc215b1a9bb783deb6f164cf60556ddd9"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-BoldItalic.ttf",
+      "sha1": "b191ab2d67700400eade11751f182f8c9ee49298"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-ExtraBold.ttf",
+      "sha1": "04c5ffd267bb3b9a03ac5ea5412fc22c2ef37122"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-ExtraBoldItalic.ttf",
+      "sha1": "809d9b92992a3bd358c0bdabd08f77acfecc9041"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-ExtraLight.ttf",
+      "sha1": "c8ebd6ef47e82d745d927ef8a15598148da67558"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-ExtraLightItalic.ttf",
+      "sha1": "338d73fea66b8ebf04a61939ee9d718644054e40"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Italic-VariableFont_wght.ttf",
+      "sha1": "5b3a1ec84c750eabe0be4b339ba3e9605ec2fbb6"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Italic.ttf",
+      "sha1": "cda146c189f00805e20881648b1b145933362006"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Light.ttf",
+      "sha1": "d10dda2375cac2b43efd3e549409506f33c516fd"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-LightItalic.ttf",
+      "sha1": "8671f2f9ddd8ac309f581313c6b6725588005bbc"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Medium.ttf",
+      "sha1": "552644d24a61a915bafc62991e8515734a2c1e6e"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-MediumItalic.ttf",
+      "sha1": "1b2ed7fabbcceeb05c46c96407ca301a2d23055e"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-Regular.ttf",
+      "sha1": "7a3b5d2ff596ab82a01898a14a677c4eec12de57"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-SemiBold.ttf",
+      "sha1": "1ce1b824e17e6732c44eec5b0e1aebf5a264360b"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-SemiBoldItalic.ttf",
+      "sha1": "4c0b9c2ce7c46416c60117d35c825aa3633974d7"
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans-VariableFont_wght.ttf",
+      "sha1": "376843c882e5c687f9970255149a432a015cfdb8"
+    },
+    {
+      "path": "assets/fonts/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "assets/fonts/Zocial.ttf",
+      "sha1": "6a48a962b06cc3acbdfd61df0d9a34744eea5e8d"
+    }
+  ]
+}

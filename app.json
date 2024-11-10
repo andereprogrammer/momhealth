@@ -1,0 +1,32 @@
+{
+  "name": "lodestone.pixel",
+  "displayName": "Everheal",
+  "ios": {
+    "bundleIdentifier": "com.lodestone.pixel"
+  },
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "4c65dd84-c35c-47f7-a6eb-a1950aba9d10"
+      }
+    },
+    "name": "Everheal",
+    "slug": "everheal",
+    "ios": {
+      "bundleIdentifier": "com.lodestone.pixel"
+    },
+    "android": {
+      "package": "com.lodestone.pixel"
+    },
+    "runtimeVersion": "2.0.8",
+    "updates": {
+      "url": "https://u.expo.dev/4c65dd84-c35c-47f7-a6eb-a1950aba9d10",
+      "fallbackToCacheTimeout": 0,
+      "checkAutomatically": "ON_LOAD",
+      "enabled":true,
+      "requestHeaders": {
+        "expo-channel-name": "production"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+app_identifier(ENV["DEVELOPER_APP_IDENTIFIER"])
+apple_id(ENV["FASTLANE_APPLE_ID"])
+
+# app_identifier("com.lodestone.pixel") # The bundle identifier of your app
+# apple_id("joe@everheal.com") # Your Apple Developer Portal username
+
+itc_team_id(ENV["APP_STORE_CONNECT_TEAM_ID"])
+team_id(ENV["DEVELOPER_PORTAL_TEAM_ID"])
+
+# itc_team_id("126558401") # App Store Connect Team ID
+# team_id("Y3W3TV4QGG") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

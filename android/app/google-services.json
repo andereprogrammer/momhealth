@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057907180561",
+    "project_id": "nexus-firebase-prod",
+    "storage_bucket": "nexus-firebase-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057907180561:android:68ad6b7cd0603764ce5db0",
+        "android_client_info": {
+          "package_name": "com.lodestone.pixel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdf2SPh90Z9nKs0o6ZAypAjpEacd6b4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

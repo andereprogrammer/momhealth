@@ -1,0 +1,8 @@
+export enum AttendeeStatus {
+  ASSIGNED = 'ASSIGNED',
+  CANCELLED = 'CANCELLED',
+  BOOKED = 'BOOKED',
+  JOINED = 'JOINED',
+  COMPLETED = 'COMPLETED',
+  SKIPPED = 'SKIPPED',
+}
